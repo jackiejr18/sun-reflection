@@ -2,3 +2,12 @@
 	margin: 0px;
 	padding: 0px;
 }
+
+body {
+	height: 100vh;
+	width: 100vw;
+	background: black;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
