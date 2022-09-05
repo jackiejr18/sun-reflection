@@ -104,7 +104,10 @@ body {
 		transform: translatey(0.3vmin) scale(1,1.2);
 	}
 	50% {
-		transform: translatey(0.5vmin) scale(1.1,1.2);
+		transform: translatey(0.5vmin) scale(1.1, 1.2);
+	}
+	100% {
+		transform: translatey(-1vmin) scale(0.7, 1.3);
 	}
 }
 
