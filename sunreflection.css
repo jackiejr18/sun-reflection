@@ -111,4 +111,10 @@ body {
 	}
 }
 
+@keyframes popout {
+	25% {
+		transform: translate(0.5vmin,0.5vmin) scalex(0.8);
+	}
+}
+
 
