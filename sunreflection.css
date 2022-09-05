@@ -11,3 +11,15 @@ body {
 	align-items: center;
 	justify-content: center;
 }
+
+.sun {
+	background: linear-gradient(174deg, rgba(255,0,0,1) 44%, rgba(255,123,0,1) 63%);
+	height: 50vmin;
+	width: 50vmin;
+	margin-left: 25vmin;
+	border-radius: 50%;
+	box-shadow: 0 -0.5vmin 4vmin red;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
