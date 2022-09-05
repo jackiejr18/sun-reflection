@@ -98,3 +98,9 @@ body {
 		transform: translatey(-0.5vmin) scaley(0.7);
 	}
 }
+
+@keyframes tide {
+	25% {
+		transform: translatey(0.3vmin) scale(1,1.2);
+	}
+}
