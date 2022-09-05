@@ -115,6 +115,9 @@ body {
 	25% {
 		transform: translate(0.5vmin,0.5vmin) scalex(0.8);
 	}
+	50% {
+		transform: translate(1vmin, 1vmin) scalex(0.6);
+	}
 }
 
 
