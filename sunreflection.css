@@ -23,3 +23,14 @@ body {
 	align-items: center;
 	justify-content: center;
 }
+
+.water {
+	position: relative;
+	background: black;
+	width: 80vmin;
+	height: 25vmin;
+	top: 26vmin;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
