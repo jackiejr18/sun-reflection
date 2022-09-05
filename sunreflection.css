@@ -92,3 +92,9 @@ body {
 		-0.5vmin 0 2vmin;
 	animation: popout 3s ease-out infinite;
 }
+
+@keyframes fade {
+	50% {
+		transform: translatey(-0.5vmin) scaley(0.7);
+	}
+}
